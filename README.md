@@ -1,57 +1,19 @@
 <h1><b>Projeto II da disciplina Laboratório de  Programação II</b></h1>
 
-<i>A classe <b>Main</b> ao ser executada, deve produzir a seguinte saída:</i>
+<h2><b>Controle Institucional de Situação Acadêmica<b></h2>
 
-false
+<h3>O projeto em questão apresenta as seguintes funcionalidades.</h3>
 
-true
-
-true
-
-false
-
-LCC2 1999/2000
-
-false
-
-true
-
-PROGRAMACAO 2 4 7.0 [5.0, 6.0, 7.0, 10.0]
-
-Mulher do Bolo 3 800
-
-boa
-
-boa
-
-fraca
-
-ok
-
-*****BÔNUS*****
-
-false
-
-PROGRAMACAO 3 0 7,0 [5.0, 3.0, 6.0, 8.0, 9.0]
-
-true
-
-LCC 2 2500/2000
-
-LCC 3 2500/3000
-
-ESTRUTURAS DE DADOS 4 9,0 [9.0, 9.0, 9.0, 9.0, 9.0, 9.0]
-
-PROJETO DE SOFTWARE 0 0,0 [0.0, 0.0, 0.0, 0.0]
-
-Aprovado? true
-
-Lanchonete do Seu Olavo 18 119
-
-Lanchonete do Veí 0 0
-
-Lanchonete do veí 3 100
-
-boa
-
-fraca
+<ol>
+  <li>Conta de um Laboratório</li>
+  <li>Disciplina</li>
+  <li>Conta na Cantina</li>
+  <li>Saúde Física e Mental</li>
+</ol>
+<b><i>Bônus<b><i>
+<ul>
+  <li>Mais notas na disciplina</li>
+  <li>Registro detalhado de lanches</li>
+  <li>Nível de saúde física e mental</li>
+  <li>Múltiplos alunos</li>
+</ul>

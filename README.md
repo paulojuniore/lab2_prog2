@@ -1,4 +1,4 @@
-Projeto II da disciplina laboratório de programação II
+<b>Projeto II da disciplina Laboratório de  Programação II</b>
 
 Após a execução das classe acima, deverá exibir a seguinte saída:
 

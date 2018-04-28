@@ -9,6 +9,7 @@ O projeto em questão apresenta as seguintes funcionalidades.
   <li>Disciplina</li>
   <li>Conta na Cantina</li>
   <li>Saúde Física e Mental</li>
+  <li>Aluno</li>
 </ol>
 <b><i>Bônus<b><i>
 <ul>

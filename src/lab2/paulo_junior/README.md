@@ -16,11 +16,19 @@ false
 
 true
 
-PROGRAMACAO 2 4 7.0 [5.0, 6.0, 7.0, 10.0]
+PROGRAMACAO 2 4 7,0 [5.0, 6.0, 7.0, 10.0]
 
-Mulher do Bolo 3 800
+Mulher do Bolo 6 1800
 
-boa
+***REGISTRO DE COMPRAS***
+
+- Bolinho Gostoso
+
+- Tapioca de Frango
+
+- Cachorro Quente
+
+boa :)
 
 boa
 
@@ -28,7 +36,7 @@ fraca
 
 ok
 
-*****BÔNUS*****
+******BÔNUS*****
 
 false
 

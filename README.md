@@ -2,7 +2,7 @@
 
 <h2><b>Controle Institucional de Situação Acadêmica<b></h2>
 
-<h5> projeto em questão apresenta as seguintes funcionalidades.</h5>
+O projeto em questão apresenta as seguintes funcionalidades.
 
 <ol>
   <li>Conta de um Laboratório</li>

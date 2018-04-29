@@ -1,6 +1,6 @@
 <h1><b>Projeto II da disciplina Laboratório de  Programação II</b></h1>
 
-<i>A classe <b>Main</b> ao ser executada, deve produzir a seguinte saída:</i>
+<i>A classe <b>Coisa</b> ao ser executada, deve produzir a seguinte saída:</i>
 
 false
 

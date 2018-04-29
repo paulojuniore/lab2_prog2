@@ -33,7 +33,7 @@ public class Aluno {
 	private Saude saude = new Saude();
 	
 	/**
-	 * Constrói um aluno a partir das disciplinas, contas de cantina e de laboratório
+	 * Constrói um aluno que possui disciplinas, contas de cantina e contas de laboratório
 	 */
 	public Aluno() {
 		this.disciplinas = new ArrayList<Disciplina>();
@@ -115,6 +115,8 @@ public class Aluno {
 	/**
 	 * Retorna uma Lista de Contas de Laboratório de um aluno
 	 * 
+	 * @param nomeLaboratorio : Nome do laboratório a ser mostrado
+	 * 
 	 * @return : as contas de laboratório cadastradas de um aluno
 	 */
 	public String laboratoriosToString(String nomeLaboratorio) {
@@ -188,6 +190,8 @@ public class Aluno {
 	
 	/**
 	 * Retorna uma lista de disciplinas de um aluno
+	 * 
+	 * @param nomeDisciplina : nome da disciplina a ser mostrada
 	 * 
 	 * @return : lista de disciplinas de um aluno
 	 */

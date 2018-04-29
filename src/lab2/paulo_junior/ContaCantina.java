@@ -37,7 +37,6 @@ public class ContaCantina
 	 * Constrói uma Conta na Cantina a partir do nome da cantina
 	 * 
 	 * @param nomeCantina : o nome da cantina representado por uma String
-	 * @param detalhes : um ArrayList com os detalhes das últimas 5 compras
 	 */
 	public ContaCantina(String nomeCantina){
 		this.nomeCantina = nomeCantina;
@@ -63,10 +62,10 @@ public class ContaCantina
 	 * @param valorCentavos : representa o valor total da compra (valor inteiro)
 	 * @param detalhes : informações sobre a compra (String)
 	 */
-	public void cadastrarLanche(int qtdLanches, int valorCentavos, String representacao) {
+	public void cadastrarLanche(int qtdLanches, int valorCentavos, String detalhes) {
 		this.debitoConta += valorCentavos;
 		this.qtdItens += qtdLanches;
-		this.detalhes.add(representacao);
+		this.detalhes.add(detalhes);
 	}
 	
 	/**

@@ -78,7 +78,7 @@ public class ContaLaboratorio
 	 * Retorna a String que representa a ContaLaboratorio. a representação segue o formato
 	 * NOME_LABORATORIO ESPACO_OCUPADO/COTA_MAXIMA
 	 * 
-	 * @return
+	 * @return : A representação String de um objeto ContaLaboratorio
 	 */
 	public String toString(){
 		return String.format("%s %d/%d", nomeLab, espacoOcupado, cota);

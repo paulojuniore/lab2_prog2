@@ -36,7 +36,7 @@ public class Saude
 	
 	/**
 	 * Não possui valor de retorno. Apenas adiciona um emoji referente a última sensação do aluno.
-	 * @param valor : uma string com dois valores possíveis ( <(^_^<) ou :( )
+	 * @param valor : uma string com dois valores possíveis
 	 */
 	public void definirEmoji(String valor) {
 		emoji = valor;

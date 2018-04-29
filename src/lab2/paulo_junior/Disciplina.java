@@ -116,7 +116,8 @@ public class Disciplina
 	}
 	
 	/**
-	 * Retorna um boolean, true para o caso de o aluno ser aprovado (média >= 7.0) ou false, (caso contrário)
+	 * Retorna um boolean, true para o caso de o aluno ser aprovado (média maior ou igual a 7.0) ou false, 
+	 * (caso contrário)
 	 * 
 	 * @return : se o aluno foi aprovado ou não na Disciplina
 	 */

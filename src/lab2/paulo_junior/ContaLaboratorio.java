@@ -1,7 +1,7 @@
 package lab2.paulo_junior;
 
 /**
-* Representação de um Conta de Laboratório de um aluno matriculado na UFCG, do curso de Ciência da Computação.
+* Representação de uma Conta de Laboratório de um aluno matriculado na UFCG, do curso de Ciência da Computação.
 * Toda Conta de Laboratório possui um nome do laboratório, espaço ocupado (Mb) e Cota máxima.
 * 
 * @author Paulo Mendes da Silva Junior - 117210922

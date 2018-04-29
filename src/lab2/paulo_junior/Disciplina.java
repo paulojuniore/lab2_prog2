@@ -3,7 +3,7 @@ package lab2.paulo_junior;
 import java.util.Arrays;
 
 /**
-* Representação de uma Disciplina de um aluno matriculado na UFCG, do curso de Ciência da Computação
+* Representação de uma Disciplina de um aluno matriculado na UFCG, do curso de Ciência da Computação.
 * Toda disciplina possui um nome, uma quantidade de horas associadas e várias notas.
 * 
 * @author Paulo Mendes da Silva Júnior - 117210922

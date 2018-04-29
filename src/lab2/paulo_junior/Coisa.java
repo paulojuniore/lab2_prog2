@@ -1,7 +1,7 @@
 package lab2.paulo_junior;
 
 /**
-* Classe de testes para as outras classes criadas (ContaLaboratorio, ContaCantina, Disciplina, Saude e Aluno)
+* Classe de testes para as outras classes criadas (ContaLaboratorio, ContaCantina, Disciplina, Saude e Aluno).
 * 
 * @author Paulo Mendes da Silva Júnior - 117210922
 */

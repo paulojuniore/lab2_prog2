@@ -1,7 +1,7 @@
 package lab2.paulo_junior;
 
 /**
-* Representação a Saúde de um aluno matriculado na UFCG, do curso de Ciência da Computação.
+* Representação da Saúde de um aluno matriculado na UFCG, do curso de Ciência da Computação.
 * Toda Saúde possui uma saúde física e uma saúde mental
 * 
 * @author Paulo Mendes da Silva Junior - 117210922

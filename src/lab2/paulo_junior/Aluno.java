@@ -4,9 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Representa um aluno matriculado na UFCG
+ * Representa um aluno matriculado na UFCG, no curso de Ciência da Computação.
+ * Todo aluno possui um conjunto de disciplinas, contas de cantina, contas de laboratório e uma saúde.
  * 
- * @author Paulo Mendes da Silva Júnior
+ * @author Paulo Mendes da Silva Júnior - 117210922
  *
  */
 

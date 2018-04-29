@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
-* Representação de um Conta de uma Cantina de um aluno matriculado na UFCG, do curso de Ciência da Computação.
-* Toda ContaCantina possui um nome, um débito e uma quantidade de itens que foram comprados
+* Representação de uma Conta de Cantina de um aluno matriculado na UFCG, do curso de Ciência da Computação.
+* Toda Conta de Cantina possui um nome, um débito, uma quantidade de itens que foram comprados e um registro das últimas cinco compras.
 * 
 * @author Paulo Mendes da Silva Júnior - 117210922
 */

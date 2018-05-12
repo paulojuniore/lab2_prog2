@@ -18,3 +18,5 @@ O projeto em questão apresenta as seguintes funcionalidades.
   <li>Nível de saúde física e mental</li>
   <li>Múltiplos alunos</li>
 </ul>
+  
+<h3>Lab concluído!</h3>
